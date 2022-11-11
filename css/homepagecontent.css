@@ -16,17 +16,69 @@
     letter-spacing: 0.7cm;
 }
 
+.homePara{
+    background-color: rgba(255, 255, 255, 0.631);
+}
+
 p{
-    padding:3rem;
+    /* padding:15px;
     width: 80vw;
     height: fit-content;
     text-align: justify;
     color: rgb(0, 0, 0);
-    margin:auto;
+    margin:20vh auto auto auto;
     font-size:22px;
-    /* background: rgba(255, 255, 255, 0.53); */
-    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.53); */
+    /*border-radius: 12px;
     opacity: 12px;
     font-weight: bolder;
-    background-color: rgba(255, 255, 255, 0.811);
+    background-color: rgba(255, 255, 255, 0.811); */
+
+
+    /* background-color: rgba(255, 255, 255, 0.811); */
+   width:80%;
+   height:fit-content;
+   padding:15px;
+   margin:10px auto auto auto;
+   font-size: 22px;
+   font-weight: bold;
+   text-align:justify;
+    border-radius: 20px;
+}
+#p-first{
+    margin:5% auto auto auto ;
+}
+#homePara::first-letter,#p-first::first-letter{
+    font-size: 3rem;
+    color:#8a2be2;
+}
+/* teaching.php style  */
+#teaching{
+    background-color:rgba(255, 255, 255, 0.811) ;
+    width:80vw;
+    height:fit-content;
+    margin:auto;
+    border-radius: 15px;
+}
+
+blockquote{
+    
+    max-width: 75%;
+    height:fit-content;
+    padding:20px;
+    margin:auto;
+    color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0) ;
+    font: bolder;
+    font-style: italic;
+    font-size: 2rem;
+    text-align:justify;
+    border-radius: 15px;
+}
+
+#ramakrishna{
+    float: right;
+    margin: 10px;
+    border:2px solid #ddd;
+    border-radius: 15px;
 }
