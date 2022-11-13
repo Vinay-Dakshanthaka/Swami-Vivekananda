@@ -1,0 +1,26 @@
+.p-edu{
+    width:80vw;
+    height:fit-content;
+    background: rgba(237, 230, 230, 0.832);
+    padding:20px;
+    letter-spacing: 1px;
+}
+@media (min-width:768px) {
+    .p-edu{
+        margin-top: -30px;
+    }
+    #edu-container{
+        margin:-30px auto auto auto;
+        width:80vw;
+        height: fit-content;
+        border-radius: 10px;
+
+    }
+
+}
+#p-edu{
+    margin-top: 10%;
+}
+#edu-container{
+    background-color: white;
+}

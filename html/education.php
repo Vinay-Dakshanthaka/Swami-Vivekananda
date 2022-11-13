@@ -1,9 +1,14 @@
 <?php
     include "../includes/header.php"
 ?>
+<div id="edu-container">
+<p class="p-edu" id="p-edu">
+In 1871, at the age of eight, Narendranath enrolled at Ishwar Chandra Vidyasagar's Metropolitan Institution, where he went to school until his family moved to Raipur in 1877. In 1879, after his family's return to Calcutta, he was the only student to receive first-division marks in the Presidency College entrance examination.  He was an avid reader in a wide range of subjects, including philosophy, religion, history, social science, art and literature. He was also interested in Hindu scriptures, including the Vedas, the Upanishads, the Bhagavad Gita, the Ramayana, the Mahabharata and the Puranas. Narendra was trained in Indian classical music, and regularly participated in physical exercise, sports and organised activities. Narendra studied Western logic, Western philosophy and European history at the General Assembly's Institution (now known as the Scottish Church College). In 1881, he passed the Fine Arts examination, and completed a Bachelor of Arts degree in 1884. Narendra studied the works of David Hume, Immanuel Kant, Johann Gottlieb Fichte, Baruch Spinoza, Georg W. F. Hegel, Arthur Schopenhauer, Auguste Comte, John Stuart Mill and Charles Darwin. He became fascinated with the evolutionism of Herbert Spencer and corresponded with him, translating Herbert Spencer's book Education (1861) into Bengali. While studying Western philosophers, he also learned Sanskrit scriptures and Bengali literature.</p>
 
+<p class="p-edu">William Hastie (principal of Christian College, Calcutta, from where Narendra graduated) wrote, "Narendra is really a genius. I have travelled far and wide but I have never come across a lad of his talents and possibilities, even in German universities, among philosophical students. He is bound to make his mark in life".</p>
 
-
+<p class="p-edu">Narendra was known for his prodigious memory and the ability at speed reading. Several incidents have been given as examples. In a talk, he once quoted verbatim, two or three pages from Pickwick Papers. Another incident that is given is his argument with a Swedish national where he gave reference to some details on Swedish history that the Swede originally disagreed with but later conceded. In another incident with Dr. Paul Deussen's at Kiel in Germany, Vivekananda was going over some poetical work and did not reply when the professor spoke to him. Later, he apologised to Dr. Deussen explaining that he was too absorbed in reading and hence did not hear him. The professor was not satisfied with this explanation, but Vivekananda quoted and interpreted verses from the text, leaving the professor dumbfounded about his feat of memory. Once, he requested some books written by Sir John Lubbock from a library and returned them the very next day, claiming that he had read them. The librarian refused to believe him until cross-examination about the contents convinced him that Vivekananda was being truthful.</p>
+</div>
 <?php
     include "../includes/footer.php"
 

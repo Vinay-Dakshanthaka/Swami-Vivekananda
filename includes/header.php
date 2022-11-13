@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/homepagecontent.css">
     <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet" href="../css/childhood.css">
-    
+    <link rel="stylesheet" href="../css/education.css">
     <script src="../JS/navbartoggle.js" defer></script>
     <script src="../JS/carousel.js" defer></script>
     <title>Swami Vivekananda</title>
